@@ -1,3 +1,1 @@
-name = "Huzair Ahmad"
-
-print(name)
+print("name");
